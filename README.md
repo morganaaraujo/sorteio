@@ -1,3 +1,3 @@
 # Sorteio
 
-Implementação do Bubble Sort para ordenação de uma lista encadeada preechida com números sorteados aleatoriamente.
+Implementação do Bubble Sort para ordenação de uma lista encadeada preenchida com números sorteados aleatoriamente.
